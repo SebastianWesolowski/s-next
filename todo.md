@@ -1,0 +1,4 @@
+- [ ] check @opentelemetry/api. is it used in current project ? 
+- [ ] change absolute to module https://nextjs.org/docs/pages/building-your-application/configuring/absolute-imports-and-module-aliases#module-aliases
+- [ ] fix jest test fo CI 
+- [ ] "test-storybook": "cross-env FORCE_COLOR=1 test-storybook", - dodać smoke testy
