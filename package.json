@@ -33,7 +33,7 @@
     "Development:info:start": "Development------------------------------------------------------------------------------",
     "dev": "cross-env FORCE_COLOR=1 next dev",
     "start": "next start",
-    "start:dev": "dev",
+    "start:dev": "yarn run dev",
     "postinstall": "npx patch-package -y",
     "preinstall": "npx only-allow yarn",
     "storybook": "cross-env FORCE_COLOR=1 storybook dev -p 6006",
